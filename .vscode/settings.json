@@ -1,0 +1,10 @@
+{
+  "cSpell.words": ["Buildx", "bunx", "commitlint", "gitmoji", "iamryansu"],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "astro", // Enable .astro
+    "typescript", // Enable .ts
+    "typescriptreact" // Enable .tsx
+  ]
+}
